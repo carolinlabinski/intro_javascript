@@ -7,7 +7,7 @@ switch(true) {
   case input === input.toUpperCase() && input != "":
    console.log("Pwa, calme-toi...");
    break;
-  case input.includes("Fornite"):
+  case input.includes("Fortnite"):
     console.log("on s' fait une partie soum-soum ?");
     break;
   case input === "":
